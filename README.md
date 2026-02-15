@@ -43,6 +43,7 @@ This project extends the Xiaozhi firmware with a fully animated face system incl
 Use promo code **`N891LZX6`** at checkout for a discount!
 
 ---
+Click below to watch the build video.
 
 [![YouTube Video](https://img.youtube.com/vi/aDaSp6zaqWM/0.jpg)](https://www.youtube.com/watch?v=aDaSp6zaqWM)
 
