@@ -1,0 +1,1 @@
+esptool.exe --chip esp32s3 --port COM38 --baud 921600 write_flash 0x0 bootloader.bin 0x8000 partition-table.bin 0xD000 ota_data_initial.bin 0x20000 xiaozhi.bin 0x600000 generated_assets.bin
