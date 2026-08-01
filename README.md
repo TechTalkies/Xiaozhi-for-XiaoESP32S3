@@ -2,6 +2,8 @@
 
 An expressive AI desk companion built using the Xiao ESP32-S3, OLED display, I2S MEMS microphone, and MAX98357A amplifier.
 
+[![Ko-fi](https://techtalkies.github.io/support_me_256.png)](https://ko-fi.com/techtalkies)
+
 This project extends the Xiaozhi firmware with a fully animated face system including:
 
 - Idle animation
